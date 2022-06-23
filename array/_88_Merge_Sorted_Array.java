@@ -7,7 +7,6 @@ public class _88_Merge_Sorted_Array {
         int n = 3;
 
         merge(nums1, m, nums2,n);
-        System.out.println("Done");
     }
 
     private static void chen(int ai, int nums1[], int m) {
