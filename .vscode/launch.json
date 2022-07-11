@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sampleRecursion",
+            "request": "launch",
+            "mainClass": "sampleRecursion",
+            "projectName": "algorithm2022_d43645d5"
+        },
+        {
+            "type": "java",
             "name": "Launch _1662_Check_If_Two_String_Arrays_are_Equivalent",
             "request": "launch",
             "mainClass": "_1662_Check_If_Two_String_Arrays_are_Equivalent",
