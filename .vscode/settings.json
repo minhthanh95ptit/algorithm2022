@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "string",
         "introduct",
         "array-list",
         "array",
-        "string"
+        "recursion"
     ]
 }
